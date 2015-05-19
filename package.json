@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "dependencies": {
+    "grunt-responsive-images": "^0.1.6"
+  }
+}
